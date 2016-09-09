@@ -14,7 +14,7 @@
 },
 "homepage": "https://github.com/lagora/js-is-pure-function",
 "keywords": [
-"pure', "function", "check", "validation"
+"pure", "function", "check", "validation"
 ],
 "author": "Franck @Lagora <lagora.franck@gmail.com>",
 "license": "MIT"
