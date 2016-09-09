@@ -4,15 +4,19 @@
 "description": "check is a function a pure function",
 "main": "index.js",
 "dependencies": {},
-"devDependencies": {},
-"scripts": {},
+"devDependencies": {
+  "mocha": "^3.0.2"
+},
+"scripts": {
+  "test": "mocha"
+},
 "repository": {
 "type": "git",
 "url": "git://github.com/lagora/js-is-pure-function.git"
 },
 "homepage": "https://github.com/lagora/js-is-pure-function",
 "keywords": [
-"pure', "function", "check", "validation"
+"pure", "function", "check", "validation"
 ],
 "author": "Franck @Lagora <lagora.franck@gmail.com>",
 "license": "MIT"
