@@ -4,7 +4,9 @@
 "description": "check is a function a pure function",
 "main": "index.js",
 "dependencies": {},
-"devDependencies": {},
+"devDependencies": {
+  "mocha": "^3.0.2"
+},
 "scripts": {},
 "repository": {
 "type": "git",
