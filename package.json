@@ -1,5 +1,5 @@
 {
-"name": "is-pure-function",
+"name": "js-is-pure-function",
 "version": "1.0.0",
 "description": "check is a function a pure function",
 "main": "index.js",
