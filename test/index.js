@@ -14,4 +14,8 @@ describe('isPureFunction', function () {
     var f = function(a) { return a; };
     assert(f(1), isPureFunction(f));
   });
+  it('must return FALSE is a function return undefined', function () {
+    var f = function(a) {};
+    assert(typeof f(1) === 'undefined', isPureFunction(f));
+  });
 });
