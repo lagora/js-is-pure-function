@@ -1,5 +1,7 @@
 # js-is-pure-function
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/lagora/js-is-pure-function.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/lagora/js-is-pure-function.svg?branch=master)](https://travis-ci.org/lagora/js-is-pure-function)
 
 A simple and easy way to evaluate if a function answer the following constraints:
